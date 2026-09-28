@@ -1,0 +1,28 @@
+Discount
+You are buying an item that costs 
+N
+N rupees.
+
+The shopkeeper gives you a special discount: you may remove exactly one digit from the decimal representation of 
+N
+N. The remaining digits, in the same order, form the new price you have to pay.
+
+Your task is to find the minimum possible price after removing exactly one digit.
+
+The resulting number may contain leading zeros. However, while printing the answer, leading zeros must not be printed.
+
+Input Format
+The first line contains an integer 
+T
+T, the number of test cases.
+Each of the next 
+T
+T lines contains a single integer 
+N
+N.
+Output Format
+For each test case, print the minimum price that can be obtained after removing exactly one digit from 
+N
+N.
+
+Print each answer on a separate line.
